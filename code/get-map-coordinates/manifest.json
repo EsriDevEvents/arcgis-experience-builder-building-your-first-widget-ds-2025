@@ -1,0 +1,19 @@
+{
+  "name": "get-map-coordinates",
+  "label": "Get Map Coordinates",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "Gavin",
+  "description": "Shows the map coordinates.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
